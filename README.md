@@ -4,20 +4,20 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-The30neAnd0nlyChannel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
+[![https://telegram.me/IamCOD3X](https://img.shields.io/badge/Telegram-@IamCOD3X-blue.svg?style=flat-square)](https://telegram.me/IamCOD3X)
 
 </div>
 
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TrackDownRoBot](https://t.me/TrackDownRoBot)
+### Try it at [@Us3rTrackerBot](http://t.me/Us3r_Tracker_bot)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
  
 #### Video Tutorial 
 
-[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
+[![Video Tutorial](https://github.com/IamCOD3X/TrackDown/blob/main/vid.png)](https://github.com/IamCOD3X/TrackDown/blob/main/vid.mp4?raw=true)
 
 **Make sure you put `bot` as the secret's key , it's case sensitive.**
 
@@ -28,7 +28,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Clone the repo using `git clone https://github.com/Th30neAnd0nly/TrackDown`
 1. `cd TrackDown`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [index.js](https://github.com/Th30neAnd0nly/TrackDown/blob/8d2b963bc96d34282589d47240a9db56b5ce79f5/index.js#L15)
+1. Replace your website URL at [index.js](https://github.com/IamCOD3X/TrackDown/blob/8d2b963bc96d34282589d47240a9db56b5ce79f5/index.js#L15)
 1. Run `npm install`
 1. Afterwards `npm start`
 1. Your Bot is now online.
